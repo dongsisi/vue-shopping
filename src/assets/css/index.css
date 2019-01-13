@@ -1,0 +1,8 @@
+@import './reset.css';
+
+html {
+  font-size: 11.7188px;
+}
+#app{
+  min-width: 320px;
+}
